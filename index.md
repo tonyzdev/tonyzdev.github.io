@@ -30,25 +30,25 @@ Contact me if you have any !
     <tbody>
         <tr>
             <td class="company-logo"><img src="https://www.polyu.edu.hk/assets/img/main-logo-3x.png" alt="PolyU"></td>
-            <td><p style="font-weight:;">Hong Kong Polytechnic University</a></td>
+            <td>Hong Kong Polytechnic University/td>
             <td>Department of Management and Marketing</td>
             <td>Mar 2024 - Present</td>
         </tr>
         <tr>
             <td class="company-logo blue-background"><img src="https://www.ucas.ac.cn/images/moble_logo.png" alt="UCAS" background:black></td>
-            <td><p style="font-weight:;" href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a></td>
+            <td>University of Chinese Academy of Sciences</td>
             <td>College of Economics and Management</td>
             <td>Jul 2023 - Dec 2023</td>
         </tr>
         <tr>
             <td class="company-logo red-background"><img src="https://www.sufe.edu.cn/_upload/tpl/00/01/1/template1/images/logo.png"></td>
-            <td><p style="font-weight:;" href="https://www.sufe.edu.cn/">Shanghai University of Economics and Finance</a></td>
+            <td>Shanghai University of Economics and Finance</td>
             <td>College of Accounting</td>
             <td>Oct 2023 - Nov 2023</td>
         </tr>
         <tr>
             <td class="company-logo nuaa-background"><img src="http://nuaa.edu.cn/_upload/tpl/05/f7/1527/template1527/images/logo.png"></td>
-            <td><p style="font-weight:;" href="https://www.sufe.edu.cn/">Nanjing University of Aeronautics and Astronautics</a></td>
+            <td>Nanjing University of Aeronautics and Astronautics</td>
             <td>College of Economics and Management</td>
             <td>Mar 2022 - Mar 2023</td>
         </tr>
@@ -59,10 +59,10 @@ Contact me if you have any !
 
 <!-- 第二个表格 -->
 
-## Education
+<h1>Education</h1>
 <p>Nanjing University of Aeronautics and Astronautics, B.E., 2020 - 2024</p>
 
-# Industry Background
+<h1>Industry Background</h1>
 
 <table class="internship-table" classname='1'>
     <thead>
@@ -86,7 +86,7 @@ Contact me if you have any !
 </table>
 
 
-# Research Interests
+<h1>Research Interests</h1>
 
 - Large Language Model
     - Retrieval Augmented Generation, RAG
@@ -102,11 +102,11 @@ Contact me if you have any !
 - Digtial Economics and Blockchain
     - Central Bank Digitial Currency
 
-# Life Hobby
+<h1>Life Hobby</h1>
 
 He loves cycling in my daily life, used to ride 70km+ in a single night ride and goes for a run sometimes. As a hobby, he likes to read something related to neuroscience and brain science, and he is also interested in systems programming.
 
-# Co-founder as Start-up
+<h1>Co-founder as Start-up</h1>
 
 He started a company with my partner in Feb 2024 specializing in quantitative trading of US stock options, named *Gemini Fish Tech Ltd*. He expects to start a new firm to do LLM related in the near future.
 
