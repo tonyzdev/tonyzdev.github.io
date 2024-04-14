@@ -4,7 +4,7 @@ layout: homepage
 
 # Basic Information
 
-Tonglin Tony ZHANG, 张桐林 is expected to earn his Bachelor's degree in Economics from *Nanjing University of Aeronautics and Astronautics* (commonly known as NUAA or Nanhang) in July 2024. He has previously conducted research related to energy economics, ESG, and quantitative investment. He is anticipated to join the Department of Marketing, *Hong Kong Polytechnic University* to conduct research in the field of information systems in August 2024.
+Tonglin Tony ZHANG, 张桐林 is expected to earn his Bachelor's degree in Economics from *Nanjing University of Aeronautics and Astronautics* (commonly known as NUAA or Nanhang) in July 2024. He has previously conducted research related to energy economics, ESG, and quantitative investment. He is anticipated to join the Department of Marketing, *Hong Kong Polytechnic University* as Research Assistant to conduct research in the field of information systems in August 2024.
 
 # News
 
