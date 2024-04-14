@@ -22,11 +22,8 @@ Contact me if you have any !
 
 ## Research Assistant
 
+
 <table class="ra-table">
-    <thead>
-        <!-- <tr>
-        </tr> -->
-    </thead>
     <tbody>
         <tr>
             <td class="company-logo"><img src="https://www.polyu.edu.hk/assets/img/main-logo-3x.png" alt="PolyU"></td>
@@ -55,20 +52,18 @@ Contact me if you have any !
     </tbody>
 </table>
 
-<!-- 确保这里有一个空行 -->
 
-<!-- 第二个表格 -->
 
 <h1>Education</h1>
 <p>Nanjing University of Aeronautics and Astronautics, B.E., 2020 - 2024</p>
 
+
+
 <h1>Industry Background</h1>
 
-<table class="internship-table" classname='1'>
-    <thead>
-        <tr>
-        </tr>
-    </thead>
+
+
+<table class="internship-table">
     <tbody>
         <tr>
             <td class="company-logo"><img src="./assets/img/deloitte-logo.png" alt="Deloitte"></td>
