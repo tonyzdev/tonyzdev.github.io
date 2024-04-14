@@ -26,25 +26,25 @@ Contact me if you have any !
 <table class="ra-table">
     <tbody>
         <tr>
-            <td class="company-logo"><img src="https://www.polyu.edu.hk/assets/img/main-logo-3x.png" alt="PolyU"></td>
+            <td class="company-logo"><img src="./assets/img/polyu.png" alt="PolyU"></td>
             <td>Hong Kong Polytechnic University</td>
             <td>Department of Management and Marketing</td>
             <td>Mar 2024 - Present</td>
         </tr>
         <tr>
-            <td class="company-logo blue-background"><img src="https://www.ucas.ac.cn/images/moble_logo.png" alt="UCAS" background:black></td>
+            <td class="company-logo blue-background"><img src="./assets/img/ucas.png" alt="UCAS" background:black></td>
             <td>University of Chinese Academy of Sciences</td>
             <td>College of Economics and Management</td>
             <td>Jul 2023 - Dec 2023</td>
         </tr>
         <tr>
-            <td class="company-logo red-background"><img src="https://www.sufe.edu.cn/_upload/tpl/00/01/1/template1/images/logo.png"></td>
+            <td class="company-logo red-background" ><img src="./assets/img/sufe.png"></td>
             <td>Shanghai University of Economics and Finance</td>
             <td>College of Accounting</td>
             <td>Oct 2023 - Nov 2023</td>
         </tr>
         <tr>
-            <td class="company-logo nuaa-background"><img src="http://nuaa.edu.cn/_upload/tpl/05/f7/1527/template1527/images/logo.png"></td>
+            <td class="company-logo nuaa-background"><img src="./assets/img/nuaa.png"></td>
             <td>Nanjing University of Aeronautics and Astronautics</td>
             <td>College of Economics and Management</td>
             <td>Mar 2022 - Mar 2023</td>
@@ -53,15 +53,21 @@ Contact me if you have any !
 </table>
 
 
-
-<h1>Education</h1>
-<p>Nanjing University of Aeronautics and Astronautics, B.E., 2020 - 2024</p>
-
+## Education
+<!-- <p>Nanjing University of Aeronautics and Astronautics, B.E., 2020 - 2024</p> -->
+<table class='ra-table'>
+    <tbody>
+        <tr>
+            <td class="company-logo nuaa-background"><img src="./assets/img/nuaa.png"></td>
+            <td>Nanjing University of Aeronautics and Astronautics</td>
+            <td>Bachelor in Economics</td>
+            <td>2020 - 2024</td>
+        </tr>
+    </tbody>
+</table>
 
 
 <h1>Industry Background</h1>
-
-
 
 <table class="internship-table">
     <tbody>
@@ -108,3 +114,49 @@ He started a company with my partner in Feb 2024 specializing in quantitative tr
 <!-- {% include_relative _includes/publications.md %} -->
 
 <!-- {% include_relative _includes/services.md %} -->
+
+<style>
+.internship-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.internship-table, .internship-table th, .internship-table td {
+    border: none;
+}
+
+.internship-table td, .internship-table th {
+    padding: 8px;
+    text-align: left;
+}
+
+.ra-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.ra-table, .ra-table th, .ra-table td {
+    border: none;
+}
+
+.ra-table td, .ra-table th {
+    padding: 8px;
+    text-align: left;
+}
+
+.company-logo img {
+    width: 135px; /* 或者任何适合的尺寸 */
+    height: auto;
+}
+
+.blue-background {
+    background-color: rgb(33,73,143);
+}
+.red-background {
+    background-color: rgb(115,37,37);
+}
+.nuaa-background {
+    background-color: rgb(52,56,171)
+}
+
+</style>
