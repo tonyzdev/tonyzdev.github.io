@@ -30,8 +30,30 @@ Contact me if you have any !
 <p>Nanjing University of Aeronautics and Astronautics, B.E., 2020 - 2024</p>
 
 # Industry Background
-<p><img src="./assets/img/deloitte-logo.png" alt="Deloitte" style="width: 125px; height: 25px; margin: 0px 10px"><a style="font-weight:bold;" href="https://www2.deloitte.com/cn/zh.html">Deloitte iBond (Shanghai) Company Ltd</a> as LLM Develop Engineer Internship, built a ChatBot from scratch. Nov 2023 - Feb 2024</p>
-<p><img src="https://assets-global.website-files.com/6469d402dfbd6223d10b9b61/6469d85c4014ad9e8d9aaa56_Ailurus%20logo(%E6%A8%AA%E7%89%88).png" alt="Ailurus" style="width:130px; height: 37.33px; margin: 0px 10px"> <a style="font-weight:bold;" href="https://www.ailurus.bio">Ailurus Biotechnology (Beijing) Ltd</a> as Data Science Engineer Internship, focused on feature extraction from DNA sequences using deep learning models. Mar 2022 - Mar 2023</p>
+<!-- <p><img src="./assets/img/deloitte-logo.png" alt="Deloitte" style="width: 125px; height: 25px; margin: 0px 10px"><a style="font-weight:bold;" href="https://www2.deloitte.com/cn/zh.html">Deloitte iBond (Shanghai) Company Ltd</a> as LLM Develop Engineer Internship, built a ChatBot from scratch. Nov 2023 - Feb 2024</p>
+<p><img src="https://assets-global.website-files.com/6469d402dfbd6223d10b9b61/6469d85c4014ad9e8d9aaa56_Ailurus%20logo(%E6%A8%AA%E7%89%88).png" alt="Ailurus" style="width:130px; height: 37.33px; margin: 0px 10px"> <a style="font-weight:bold;" href="https://www.ailurus.bio">Ailurus Biotechnology (Beijing) Ltd</a> as Data Science Engineer Internship, focused on feature extraction from DNA sequences using deep learning models. Mar 2022 - Mar 2023</p> -->
+
+<table class="internship-table">
+    <thead>
+        <tr>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="company-logo"><img src="./assets/img/deloitte-logo.png" alt="Deloitte"></td>
+            <td><a style="font-weight:bold;" href="https://www2.deloitte.com/cn/zh.html">Deloitte iBond (Shanghai) Company Ltd</a></td>
+            <td>LLM Develop Engineer Internship, built a ChatBot from scratch.</td>
+            <td>Nov 2023 - Feb 2024</td>
+        </tr>
+        <tr>
+            <td class="company-logo"><img src="https://assets-global.website-files.com/6469d402dfbd6223d10b9b61/6469d85c4014ad9e8d9aaa56_Ailurus%20logo(%E6%A8%AA%E7%89%88).png" alt="Ailurus"></td>
+            <td><a style="font-weight:bold;" href="https://www.ailurus.bio">Ailurus Biotechnology (Beijing) Ltd</a></td>
+            <td>Data Science Engineer Internship, focused on feature extraction from DNA sequences using deep learning models.</td>
+            <td>Mar 2022 - Mar 2023</td>
+        </tr>
+    </tbody>
+</table>
+
 
 # Research Interests
 
@@ -60,3 +82,24 @@ He started a company with my partner in Feb 2024 specializing in quantitative tr
 <!-- {% include_relative _includes/publications.md %} -->
 
 <!-- {% include_relative _includes/services.md %} -->
+
+<style>
+    .internship-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    .internship-table, .internship-table th, .internship-table td {
+        border: none;
+    }
+
+    .internship-table td, .internship-table th {
+        padding: 8px;
+        text-align: left;
+    }
+
+    .company-logo img {
+        width: 135px; /* 或者任何适合的尺寸 */
+        height: auto;
+    }
+</style>
