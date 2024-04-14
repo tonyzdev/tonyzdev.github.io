@@ -21,17 +21,45 @@ Contact me if you have any !
 </div> -->
 
 ## Research Assistant
-<p>Hong Kong Polytechnic University, Department of Management and Marketing, Mar 2024 - Present</p>
-<p>Shanghai University of Economics and Finance, College of Accounting, Sep 2023 - Nov 2023</p>
-<p>University of Chinese Academy of Sciences, College of Economics and Management,  Jul 2023 - Dec 2023</p>
-<p>Nanjing University of Aeronautics and Astronautics, College of Economics and Management,  Mar 2022 - Mar 2023</p>
+
+<table class="internship-table">
+    <thead>
+        <tr>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="company-logo"><img src="https://www.polyu.edu.hk/assets/img/main-logo-3x.png" alt="PolyU"></td>
+            <td><p style="font-weight:;">Hong Kong Polytechnic University</a></td>
+            <td>Department of Management and Marketing</td>
+            <td>Mar 2024 - Present</td>
+        </tr>
+        <tr>
+            <td class="company-logo blue-background"><img src="https://www.ucas.ac.cn/images/moble_logo.png" alt="UCAS" background:black></td>
+            <td><p style="font-weight:;" href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a></td>
+            <td>College of Economics and Management</td>
+            <td>Jul 2023 - Dec 2023</td>
+        </tr>
+        <tr>
+            <td class="company-logo red-background"><img src="https://www.sufe.edu.cn/_upload/tpl/00/01/1/template1/images/logo.png"></td>
+            <td><p style="font-weight:;" href="https://www.sufe.edu.cn/">Shanghai University of Economics and Finance</a></td>
+            <td>College of Accounting</td>
+            <td>Oct 2023 - Nov 2023</td>
+        </tr>
+             <tr>
+            <td class="company-logo nuaa-background"><img src="http://nuaa.edu.cn/_upload/tpl/05/f7/1527/template1527/images/logo.png"></td>
+            <td><p style="font-weight:;" href="https://www.sufe.edu.cn/">Nanjing University of Aeronautics and Astronautics</a></td>
+            <td>College of Economics and Management</td>
+            <td>Mar 2022 - Mar 2023</td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## Education
 <p>Nanjing University of Aeronautics and Astronautics, B.E., 2020 - 2024</p>
 
 # Industry Background
-<!-- <p><img src="./assets/img/deloitte-logo.png" alt="Deloitte" style="width: 125px; height: 25px; margin: 0px 10px"><a style="font-weight:bold;" href="https://www2.deloitte.com/cn/zh.html">Deloitte iBond (Shanghai) Company Ltd</a> as LLM Develop Engineer Internship, built a ChatBot from scratch. Nov 2023 - Feb 2024</p>
-<p><img src="https://assets-global.website-files.com/6469d402dfbd6223d10b9b61/6469d85c4014ad9e8d9aaa56_Ailurus%20logo(%E6%A8%AA%E7%89%88).png" alt="Ailurus" style="width:130px; height: 37.33px; margin: 0px 10px"> <a style="font-weight:bold;" href="https://www.ailurus.bio">Ailurus Biotechnology (Beijing) Ltd</a> as Data Science Engineer Internship, focused on feature extraction from DNA sequences using deep learning models. Mar 2022 - Mar 2023</p> -->
 
 <table class="internship-table">
     <thead>
@@ -101,5 +129,15 @@ He started a company with my partner in Feb 2024 specializing in quantitative tr
     .company-logo img {
         width: 135px; /* 或者任何适合的尺寸 */
         height: auto;
+    }
+
+    .blue-background {
+        background-color: rgb(33,73,143);
+    }
+    .red-background {
+        background-color: rgb(115,37,37);
+    }
+    .nuaa-background {
+        background-color: rgb(52,56,171)
     }
 </style>
