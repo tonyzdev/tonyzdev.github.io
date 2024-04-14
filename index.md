@@ -73,13 +73,13 @@ Contact me if you have any !
 <table class="internship-table">
     <tbody>
         <tr>
-            <td class="company-logo"><img src="./assets/img/deloitte-logo.png" alt="Deloitte"></td>
+            <td class="company-logo white-background"><img src="./assets/img/deloitte-logo.png" alt="Deloitte"></td>
             <td><a style="font-weight:bold;" href="https://www2.deloitte.com/cn/zh.html">Deloitte iBond (Shanghai) Company Ltd</a></td>
             <td>LLM Develop Engineer Internship, built a ChatBot from scratch.</td>
             <td>Nov 2023 - Feb 2024</td>
         </tr>
         <tr>
-            <td class="company-logo"><img src="https://assets-global.website-files.com/6469d402dfbd6223d10b9b61/6469d85c4014ad9e8d9aaa56_Ailurus%20logo(%E6%A8%AA%E7%89%88).png" alt="Ailurus"></td>
+            <td class="company-logo white-background"><img src="https://assets-global.website-files.com/6469d402dfbd6223d10b9b61/6469d85c4014ad9e8d9aaa56_Ailurus%20logo(%E6%A8%AA%E7%89%88).png" alt="Ailurus"></td>
             <td><a style="font-weight:bold;" href="https://www.ailurus.bio">Ailurus Biotechnology (Beijing) Ltd</a></td>
             <td>Data Science Engineer Internship, focused on feature extraction from DNA sequences using deep learning models.</td>
             <td>Mar 2022 - Mar 2023</td>
@@ -157,7 +157,11 @@ He started a company with my partner in Feb 2024 specializing in quantitative tr
     background-color: rgb(115,37,37);
 }
 .nuaa-background {
-    background-color: rgb(52,56,171)
+    background-color: rgb(52,56,171);
+}
+
+.white-background {
+    background-color: rgb(255,255,255);
 }
 
 </style>
