@@ -26,7 +26,7 @@ Contact me if you have any !
 <table class="ra-table">
     <tbody>
         <tr>
-            <td class="logo-containerwhite-background"><img src="./assets/img/polyu.png" alt="PolyU"></td>
+            <td class="logo-container white-background"><img src="./assets/img/polyu.png" alt="PolyU"></td>
             <td>Hong Kong Polytechnic University</td>
             <td>Department of Management and Marketing</td>
             <td>Mar 2024 - Present</td>
