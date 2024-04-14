@@ -24,8 +24,8 @@ Contact me if you have any !
 
 <table class="ra-table">
     <thead>
-        <tr>
-        </tr>
+        <!-- <tr>
+        </tr> -->
     </thead>
     <tbody>
         <tr>
@@ -113,50 +113,3 @@ He started a company with my partner in Feb 2024 specializing in quantitative tr
 <!-- {% include_relative _includes/publications.md %} -->
 
 <!-- {% include_relative _includes/services.md %} -->
-
-<style>
-    .internship-table {
-        width: 100%;
-        border-collapse: collapse;
-    }
-
-    .internship-table, .internship-table th, .internship-table td {
-        border: none;
-    }
-
-    .internship-table td, .internship-table th {
-        padding: 8px;
-        text-align: left;
-    }
-
-    .ra-table {
-        width: 100%;
-        border-collapse: collapse;
-    }
-
-    .ra-table, .ra-table th, .ra-table td {
-        border: none;
-    }
-
-    .ra-table td, .ra-table th {
-        padding: 8px;
-        text-align: left;
-    }
-
-
-
-    .company-logo img {
-        width: 135px; /* 或者任何适合的尺寸 */
-        height: auto;
-    }
-
-    .blue-background {
-        background-color: rgb(33,73,143);
-    }
-    .red-background {
-        background-color: rgb(115,37,37);
-    }
-    .nuaa-background {
-        background-color: rgb(52,56,171)
-    }
-</style>
