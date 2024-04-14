@@ -22,7 +22,7 @@ Contact me if you have any !
 
 ## Research Assistant
 
-<table class="internship-table">
+<table class="ra-table">
     <thead>
         <tr>
         </tr>
@@ -46,7 +46,7 @@ Contact me if you have any !
             <td>College of Accounting</td>
             <td>Oct 2023 - Nov 2023</td>
         </tr>
-             <tr>
+        <tr>
             <td class="company-logo nuaa-background"><img src="http://nuaa.edu.cn/_upload/tpl/05/f7/1527/template1527/images/logo.png"></td>
             <td><p style="font-weight:;" href="https://www.sufe.edu.cn/">Nanjing University of Aeronautics and Astronautics</a></td>
             <td>College of Economics and Management</td>
@@ -128,6 +128,22 @@ He started a company with my partner in Feb 2024 specializing in quantitative tr
         padding: 8px;
         text-align: left;
     }
+
+    .ra-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    .ra-table, .ra-table th, .ra-table td {
+        border: none;
+    }
+
+    .ra-table td, .ra-table th {
+        padding: 8px;
+        text-align: left;
+    }
+
+
 
     .company-logo img {
         width: 135px; /* 或者任何适合的尺寸 */
