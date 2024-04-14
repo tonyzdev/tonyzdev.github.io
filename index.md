@@ -27,7 +27,7 @@ Contact me if you have any !
     <tbody>
         <tr>
             <td class="company-logo"><img src="https://www.polyu.edu.hk/assets/img/main-logo-3x.png" alt="PolyU"></td>
-            <td>Hong Kong Polytechnic University/td>
+            <td>Hong Kong Polytechnic University</td>
             <td>Department of Management and Marketing</td>
             <td>Mar 2024 - Present</td>
         </tr>
