@@ -8,11 +8,11 @@ Tonglin Tony ZHANG, 张桐林 is expected to earn his Bachelor's degree in Econo
 
 # News
 
-- May, 2023 - **Grand Prize at the National Level** in *9th China National College Students Competition on Energy Economics*. Yunfei Chen, Luhan You and <u>Tonglin Zhang</u>. *Research on offshore wind power investment evaluation based on real options.* [<a class="hover-link" herf="http://energy.qibebt.ac.cn/eneco/contribution/index.html#/newsDetail?id=9d66d0a0-f870-11ed-9cd6-4baac5585629&activeTab=1&select=9">Learn more</a>]
+- May, 2023 - **Grand Prize at the National Level** in *9th China National College Students Competition on Energy Economics*. Yunfei Chen, Luhan You and <u>Tonglin Zhang</u>. *Research on offshore wind power investment evaluation based on real options.* [<a href="http://energy.qibebt.ac.cn/eneco/contribution/index.html#/newsDetail?id=9d66d0a0-f870-11ed-9cd6-4baac5585629&activeTab=1&select=9">Learn more</a>]
 
 # Advertisement
 ### IS Reading Group (Assist in promoting)
-Inspired by many open talks in other subjects, we aim to organize an **information systems** paper readings series. Our initial targeted audience is mainly the beginners in this field, particularly undergraduates and PhD students. We are also targeting to introduce more advanced topics in this area by inviting experts in information systems. [<a herf="https://hkustconnect-my.sharepoint.com/:x:/g/personal/sjinaj_connect_ust_hk/Eco3xT5Q8EpEhAZwBiLHgwUBAVl4ysgHgb8ViZbq1uYIag?rtime=vXcFEJlc3Eg" class="hover-link">Paper Lists</a>] You can email me (siyuan.jin@connect.ust.hk) if you want to join us.
+Inspired by many open talks in other subjects, we aim to organize an **information systems** paper readings series. Our initial targeted audience is mainly the beginners in this field, particularly undergraduates and PhD students. We are also targeting to introduce more advanced topics in this area by inviting experts in information systems. [<a href="https://hkustconnect-my.sharepoint.com/:x:/g/personal/sjinaj_connect_ust_hk/Eco3xT5Q8EpEhAZwBiLHgwUBAVl4ysgHgb8ViZbq1uYIag?rtime=vXcFEJlc3Eg" >Paper Lists</a>] You can email me (siyuan.jin@connect.ust.hk) if you want to join us.
 
 # Academic Background
 <div class="hightlight-text" style="border:0.5px solid; padding: 10px; border-radius: 10px; " >
@@ -29,7 +29,7 @@ Contact me if you have any leads!
 - Nanjing University of Aeronautics and Astronautics, B.E., 2020 - 2024
 
 # Industry Background
-- <p>Nov 2023 - Feb 2024: <a  style="font-weight:bold;" href="https://www2.deloitte.com/cn/zh.html">Deloitte iBond (Shanghai) Company Ltd</a> as LLM Develop Engineer Internship, built a ChatBot from scratch. <img src="./assets/img/deloitte-logo.png" alt="Deloitte" style="width: 125px; height: 25px; margin: 0px 10px"></p>
+- <p>Nov 2023 - Feb 2024: <a style="font-weight:bold;" href="https://www2.deloitte.com/cn/zh.html">Deloitte iBond (Shanghai) Company Ltd</a> as LLM Develop Engineer Internship, built a ChatBot from scratch. <img src="./assets/img/deloitte-logo.png" alt="Deloitte" style="width: 125px; height: 25px; margin: 0px 10px"></p>
 - Mar 2022 - Mar 2023: <a style="font-weight:bold;" href="https://www.ailurus.bio">Ailurus Biotechnology (Beijing) Ltd</a> as Data Science Engineer Internship, focused on feature extraction from DNA sequences using deep learning models. <img src="https://assets-global.website-files.com/6469d402dfbd6223d10b9b61/6469d85c4014ad9e8d9aaa56_Ailurus%20logo(%E6%A8%AA%E7%89%88).png" alt="Ailurus" style="width:130px; height: 37.33px; margin: 0px 10px">
 
 # Research Interests
