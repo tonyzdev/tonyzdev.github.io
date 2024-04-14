@@ -60,6 +60,7 @@ Contact me if you have any !
         <tr>
             <td class="company-logo nuaa-background"><img src="./assets/img/nuaa.png"></td>
             <td>Nanjing University of Aeronautics and Astronautics</td>
+            <td>College of Economics and Management</td>
             <td>Bachelor in Economics</td>
             <td>2020 - 2024</td>
         </tr>
