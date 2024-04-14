@@ -55,13 +55,16 @@ Contact me if you have any !
     </tbody>
 </table>
 
+<!-- 确保这里有一个空行 -->
+
+<!-- 第二个表格 -->
 
 ## Education
 <p>Nanjing University of Aeronautics and Astronautics, B.E., 2020 - 2024</p>
 
 # Industry Background
 
-<table class="internship-table">
+<table class="internship-table" classname='1'>
     <thead>
         <tr>
         </tr>
