@@ -26,25 +26,25 @@ Contact me if you have any !
 <table class="ra-table">
     <tbody>
         <tr>
-            <td class="company-logo"><img src="./assets/img/polyu.png" alt="PolyU"></td>
+            <td class="logo-containerwhite-background"><img src="./assets/img/polyu.png" alt="PolyU"></td>
             <td>Hong Kong Polytechnic University</td>
             <td>Department of Management and Marketing</td>
             <td>Mar 2024 - Present</td>
         </tr>
         <tr>
-            <td class="company-logo blue-background"><img src="./assets/img/ucas.png" alt="UCAS" background:black></td>
+            <td class="logo-container white-background"><img src="./assets/img/ucas.png" alt="UCAS" background:black></td>
             <td>University of Chinese Academy of Sciences</td>
             <td>College of Economics and Management</td>
             <td>Jul 2023 - Dec 2023</td>
         </tr>
         <tr>
-            <td class="company-logo red-background" ><img src="./assets/img/sufe.png"></td>
+            <td class="logo-container  sufe-background" ><img src="./assets/img/sufe.png"></td>
             <td>Shanghai University of Economics and Finance</td>
             <td>College of Accounting</td>
             <td>Oct 2023 - Nov 2023</td>
         </tr>
         <tr>
-            <td class="company-logo nuaa-background"><img src="./assets/img/nuaa.png"></td>
+            <td class="logo-container nuaa-background"><img src="./assets/img/nuaa.png"></td>
             <td>Nanjing University of Aeronautics and Astronautics</td>
             <td>College of Economics and Management</td>
             <td>Mar 2022 - Mar 2023</td>
@@ -58,10 +58,10 @@ Contact me if you have any !
 <table class='ra-table'>
     <tbody>
         <tr>
-            <td class="company-logo nuaa-background"><img src="./assets/img/nuaa.png"></td>
+            <td class="logo-container  nuaa-background"><img src="./assets/img/nuaa.png"></td>
             <td>Nanjing University of Aeronautics and Astronautics</td>
             <td>College of Economics and Management</td>
-            <td>Bachelor in Economics</td>
+            <td>B.E.</td>
             <td>2020 - 2024</td>
         </tr>
     </tbody>
@@ -73,13 +73,13 @@ Contact me if you have any !
 <table class="internship-table">
     <tbody>
         <tr>
-            <td class="company-logo white-background"><img src="./assets/img/deloitte-logo.png" alt="Deloitte"></td>
+            <td class="logo-container white-background"><img src="./assets/img/deloitte-logo.png" alt="Deloitte"></td>
             <td><a style="font-weight:bold;" href="https://www2.deloitte.com/cn/zh.html">Deloitte iBond (Shanghai) Company Ltd</a></td>
             <td>LLM Develop Engineer Internship, built a ChatBot from scratch.</td>
             <td>Nov 2023 - Feb 2024</td>
         </tr>
         <tr>
-            <td class="company-logo white-background"><img src="https://assets-global.website-files.com/6469d402dfbd6223d10b9b61/6469d85c4014ad9e8d9aaa56_Ailurus%20logo(%E6%A8%AA%E7%89%88).png" alt="Ailurus"></td>
+            <td class="logo-container  white-background"><img src="https://assets-global.website-files.com/6469d402dfbd6223d10b9b61/6469d85c4014ad9e8d9aaa56_Ailurus%20logo(%E6%A8%AA%E7%89%88).png" alt="Ailurus"></td>
             <td><a style="font-weight:bold;" href="https://www.ailurus.bio">Ailurus Biotechnology (Beijing) Ltd</a></td>
             <td>Data Science Engineer Internship, focused on feature extraction from DNA sequences using deep learning models.</td>
             <td>Mar 2022 - Mar 2023</td>
@@ -117,5 +117,60 @@ He started a company with my partner in Feb 2024 specializing in quantitative tr
 <!-- {% include_relative _includes/services.md %} -->
 
 <style>
-/*  */
+.internship-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.internship-table, .internship-table th, .internship-table td {
+    border: none;
+}
+
+.internship-table td, .internship-table th {
+    padding: 8px;
+    text-align: left;
+}
+
+.ra-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.ra-table, .ra-table th, .ra-table td {
+    border: none;
+}
+
+.ra-table td, .ra-table th {
+    padding: 8px;
+    text-align: left;
+}
+
+.logo-container {
+    width: 30%;
+}
+
+.logo-container img{
+    width: 100%;
+    height: auto;
+}
+
+.company-logo img {
+    width: auto; /* 或者任何适合的尺寸 */
+    height: 35px;
+}
+
+.ucas-background {
+    background-color: rgb(33,73,143);
+}
+.sufe-background {
+    background-color: rgb(115,37,37);
+}
+.nuaa-background {
+    background-color: rgb(52,56,171);
+}
+
+.white-background {
+    background-color: rgb(255,255,255);
+}
+
 </style>
