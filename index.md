@@ -4,7 +4,7 @@ layout: homepage
 
 ## Basic Information
 
-Tonglin Tony ZHANG, 张桐林  is expected to earn his Bachelor's degree in Economics from *Nanjing University of Aeronautics and Astronautics* (commonly known as NUAA) in July 2024. He has previously conducted research related to energy economics, ESG, and quantitative investment. He is anticipated to join the Department of Marketing, *Hong Kong Polytechnic University* to conduct research in the field of information systems in August 2024.
+Tonglin Tony ZHANG, 张桐林 is expected to earn his Bachelor's degree in Economics from *Nanjing University of Aeronautics and Astronautics* (commonly known as NUAA) in July 2024. He has previously conducted research related to energy economics, ESG, and quantitative investment. He is anticipated to join the Department of Marketing, *Hong Kong Polytechnic University* to conduct research in the field of information systems in August 2024.
 
 ## News
 
@@ -54,11 +54,11 @@ Contact me if you have any leads!
 
 ## Life Hobby
 
-I love cycling in my daily life, I used to ride 70km+ in a single night ride and I go for a run sometimes. As a hobby, I like to read something related to neuroscience and brain science, and I’m also interested in systems programming.
+He loves cycling in my daily life, used to ride 70km+ in a single night ride and goes for a run sometimes. As a hobby, he likes to read something related to neuroscience and brain science, and he is also interested in systems programming.
 
 ## Co-founder as Start-up
 
-I started a company with my partner in Feb 2024 specializing in quantitative trading of US stock options, named *Gemini Fish Tech Ltd*. I expect to start a new firm to do LLM related in the near future.
+He started a company with my partner in Feb 2024 specializing in quantitative trading of US stock options, named *Gemini Fish Tech Ltd*. He expects to start a new firm to do LLM related in the near future.
 
 {% include_relative _includes/publications.md %}
 
