@@ -110,7 +110,7 @@ He loves cycling in my daily life, used to ride 70km+ in a single night ride and
 
 <h1>Co-founder as Start-up</h1>
 
-He started a company with my partner in Feb 2024 specializing in quantitative trading of US stock options, named *Gemini Fish Tech Ltd*. He expects to start a new firm to do LLM related in the near future.
+He started a company with partners in Feb 2024 specializing in quantitative trading of US stock options, named *Gemini Fish Tech Ltd*. He expects to start a new firm to do LLM related in the near future.
 
 <!-- {% include_relative _includes/publications.md %} -->
 
